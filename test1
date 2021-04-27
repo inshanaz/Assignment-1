@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title> assignment1</title>
+</head>
+<body>
+<h1>My First Assignment</h1>
+<h1>CRM Admin</h1>
+<nav role="navigation">
+<ul> 
+	<li><a href="http//:www.google.com">contacts</a></li>
+	<li><a href="http//:www.google.com">orders</a></li>
+	<li><a href="http//:www.google.com">tasks</a></li>
+	<li><a href="http//:www.google.com">evaluation copies</a></li>
+</ul>
+</nav>
+
+<section>
+<h1>Employee profile</h1>
+<h3>photo</h3>
+<img src="bird.jpg">
+<p>Birdie</p>
+</section>
+<section>
+<h1>Personal data</h1>
+<p1>Address<br>
+	     &nbsp xxx<br>
+	City<br>
+	     &nbsp yyy<br>
+
+	Region<br>
+		 &nbsp zzz<br>
+	Phone<br>
+	     &nbsp 99023466789
+</p1>
+</section>
+<section>
+<h1>Customers</h1>
+<p1> <a href="www.google.com">sam</a><br>
+     University of Britain	<br> <br>
+     <a href="www.google.com">abraham</a><br>
+     University of Michigan<br><br>
+     <a href="#">Home</a>|<a href="#">Contacts</a> 
+</p1>  
+</section>
+<hr> 
+<h1>References</h1>
+<footer> mailid:<a href="http//:www.gmail.com">inshanaz9901@gmail.com </a>
+	<br>
+	<span style="color:green">copyright&#169</span>
+</footer>	     	            
+</body>
+
+</html>
